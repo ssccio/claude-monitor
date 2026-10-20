@@ -199,6 +199,8 @@ mod tests {
 
         // Unchanged file is skipped.
         assert_eq!(ingest(&mut conn, &src).unwrap().files_read, 0);
+        // Windows won't delete files that are still open.
+        drop((f, conn));
         std::fs::remove_dir_all(&dir).unwrap();
     }
 }
