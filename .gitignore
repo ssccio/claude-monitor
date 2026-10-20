@@ -1,0 +1,13 @@
+.mcp.json
+.env.local
+.envrc
+.vscode/
+.idea/
+*.swp
+.DS_Store
+.env
+node_modules/
+vendor/
+
+# Rust
+/target/

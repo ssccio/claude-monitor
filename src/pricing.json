@@ -1,0 +1,156 @@
+{
+  "claude-fable-5": {
+    "cache_read": 0.000001,
+    "cache_write_1h": 0.00002,
+    "cache_write_5m": 0.0000125,
+    "input": 0.00001,
+    "output": 0.00005
+  },
+  "claude-fable-5-1": {
+    "cache_read": 2.5E-7,
+    "cache_write_1h": 0.00002,
+    "cache_write_5m": 0.0000125,
+    "input": 0.00001,
+    "output": 0.00005
+  },
+  "claude-haiku-4-5": {
+    "cache_read": 1E-7,
+    "cache_write_1h": 0.000002,
+    "cache_write_5m": 0.00000125,
+    "input": 0.000001,
+    "output": 0.000005
+  },
+  "claude-haiku-4-5-20251001": {
+    "cache_read": 1E-7,
+    "cache_write_1h": 0.000002,
+    "cache_write_5m": 0.00000125,
+    "input": 0.000001,
+    "output": 0.000005
+  },
+  "claude-haiku-5-5": {
+    "cache_read": 1E-8,
+    "cache_write_1h": 2E-7,
+    "cache_write_5m": 1.25E-7,
+    "input": 1E-7,
+    "output": 5E-7
+  },
+  "claude-mythos-5": {
+    "cache_read": 0.000001,
+    "cache_write_1h": 0.00002,
+    "cache_write_5m": 0.0000125,
+    "input": 0.00001,
+    "output": 0.00005
+  },
+  "claude-mythos-5-1": {
+    "cache_read": 2.5E-7,
+    "cache_write_1h": 0.00002,
+    "cache_write_5m": 0.0000125,
+    "input": 0.00001,
+    "output": 0.00005
+  },
+  "claude-mythos-preview": {
+    "cache_read": 0.000001,
+    "cache_write_1h": 0.00002,
+    "cache_write_5m": 0.0000125,
+    "input": 0.00001,
+    "output": 0.00005
+  },
+  "claude-opus-4-5": {
+    "cache_read": 5E-7,
+    "cache_write_1h": 0.00001,
+    "cache_write_5m": 0.00000625,
+    "input": 0.000005,
+    "output": 0.000025
+  },
+  "claude-opus-4-5-20251101": {
+    "cache_read": 5E-7,
+    "cache_write_1h": 0.00001,
+    "cache_write_5m": 0.00000625,
+    "input": 0.000005,
+    "output": 0.000025
+  },
+  "claude-opus-4-6": {
+    "cache_read": 5E-7,
+    "cache_write_1h": 0.00001,
+    "cache_write_5m": 0.00000625,
+    "input": 0.000005,
+    "output": 0.000025
+  },
+  "claude-opus-4-6-20260205": {
+    "cache_read": 5E-7,
+    "cache_write_1h": 0.00001,
+    "cache_write_5m": 0.00000625,
+    "input": 0.000005,
+    "output": 0.000025
+  },
+  "claude-opus-4-7": {
+    "cache_read": 5E-7,
+    "cache_write_1h": 0.00001,
+    "cache_write_5m": 0.00000625,
+    "input": 0.000005,
+    "output": 0.000025
+  },
+  "claude-opus-4-7-20260416": {
+    "cache_read": 5E-7,
+    "cache_write_1h": 0.00001,
+    "cache_write_5m": 0.00000625,
+    "input": 0.000005,
+    "output": 0.000025
+  },
+  "claude-opus-4-8": {
+    "cache_read": 5E-7,
+    "cache_write_1h": 0.00001,
+    "cache_write_5m": 0.00000625,
+    "input": 0.000005,
+    "output": 0.000025
+  },
+  "claude-opus-5": {
+    "cache_read": 5E-7,
+    "cache_write_1h": 0.00001,
+    "cache_write_5m": 0.00000625,
+    "input": 0.000005,
+    "output": 0.000025
+  },
+  "claude-opus-5-5": {
+    "cache_read": 2E-7,
+    "cache_write_1h": 0.000008,
+    "cache_write_5m": 0.000005,
+    "input": 0.000004,
+    "output": 0.00002
+  },
+  "claude-sonnet-4-5": {
+    "cache_read": 3E-7,
+    "cache_write_1h": 0.000006,
+    "cache_write_5m": 0.00000375,
+    "input": 0.000003,
+    "output": 0.000015
+  },
+  "claude-sonnet-4-5-20250929": {
+    "cache_read": 3E-7,
+    "cache_write_1h": 0.000006,
+    "cache_write_5m": 0.00000375,
+    "input": 0.000003,
+    "output": 0.000015
+  },
+  "claude-sonnet-4-6": {
+    "cache_read": 3E-7,
+    "cache_write_1h": 0.000006,
+    "cache_write_5m": 0.00000375,
+    "input": 0.000003,
+    "output": 0.000015
+  },
+  "claude-sonnet-5": {
+    "cache_read": 2E-7,
+    "cache_write_1h": 0.000004,
+    "cache_write_5m": 0.0000025,
+    "input": 0.000002,
+    "output": 0.00001
+  },
+  "claude-sonnet-5-5": {
+    "cache_read": 1E-7,
+    "cache_write_1h": 0.000004,
+    "cache_write_5m": 0.0000025,
+    "input": 0.000002,
+    "output": 0.00001
+  }
+}
